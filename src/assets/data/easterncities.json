@@ -1,0 +1,272 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [39.22387292327997,
+          38.676232564666094]
+        },
+        "properties": {
+          "name": "Elazığ",
+          "population": 574304
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [39.49031452588409,
+          39.746653637971235]
+        },
+        "properties": {
+          "name": "Erzincan",
+          "population": 236899
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [41.2867, 39.9334]
+        },
+        "properties": {
+          "name": "Erzurum",
+          "population": 767848
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [38.3552, 38.3117]
+        },
+        "properties": {
+          "name": "Malatya",
+          "population": 797036
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [39.5417, 39.1075]
+        },
+        "properties": {
+          "name": "Tunceli",
+          "population": 76143
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.09651723482716,
+          40.605729019941776]
+        },
+        "properties": {
+          "name": "Kars",
+          "population": 285183
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [44.04513755278751,
+          39.921687764088546]
+        },
+        "properties": {
+          "name": "Iğdır",
+          "population": 203381
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [42.6539, 41.1105]
+        },
+        "properties": {
+          "name": "Ardahan",
+          "population": 98316
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.39003580320508,
+          38.50073332239245]
+        },
+        "properties": {
+          "name": "Van",
+          "population": 1128836
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.496117176502935,
+          38.88541166316082]
+        },
+        "properties": {
+          "name": "Bingöl",
+          "population": 271445
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.73807526728848,
+          37.57346405752246]
+        },
+        "properties": {
+          "name": "Hakkari",
+          "population": 292074
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [42.10817792088275,
+          38.40111723512226]
+        },
+        "properties": {
+          "name": "Bitlis",
+          "population": 353042
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.0747, 39.7193]
+        },
+        "properties": {
+          "name": "Ağrı",
+          "population": 536285
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [41.49044435798217,
+          38.73398841160673]
+        },
+        "properties": {
+          "name": "Muş",
+          "population": 412440
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [38.27288300635354,
+          37.76080005762982]
+        },
+        "properties": {
+          "name": "Adıyaman",
+          "population": 645132
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [41.1389, 37.8903]
+        },
+        "properties": {
+          "name": "Batman",
+          "population": 660202
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.2185, 37.9150]
+        },
+        "properties": {
+          "name": "Diyarbakır",
+          "population": 1810096
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.380197519715864,
+          37.062371734883]
+        },
+        "properties": {
+          "name": "Gaziantep",
+          "population": 2069364
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.1278, 36.7174]
+        },
+        "properties": {
+          "name": "Kilis",
+          "population": 147735
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.7383, 37.3127]
+        },
+        "properties": {
+          "name": "Mardin",
+          "population": 841133
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [41.94149613249053,
+          37.92682932634932]
+        },
+        "properties": {
+          "name": "Siirt",
+          "population": 331399
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [38.7967, 37.1676]
+        },
+        "properties": {
+          "name": "Şanlıurfa",
+          "population": 2073614
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [42.455399148894855,
+          37.51895770104407]
+        },
+        "properties": {
+          "name": "Şırnak",
+          "population": 575657
+        }
+      }
+    ]
+  }
+  

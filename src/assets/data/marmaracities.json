@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [28.9784, 41.0082]
+        },
+        "properties": {
+          "name": "Istanbul",
+          "population": 15472551
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.070342092356668, 40.19313685106221]
+        },
+        "properties": {
+          "name": "Bursa",
+          "population": 3069910
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.951106181992458, 40.76542846431852]
+        },
+        "properties": {
+          "name": "Kocaeli",
+          "population": 1961101
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.887340069124946, 39.64651086900611]
+        },
+        "properties": {
+          "name": "Balıkesir",
+          "population": 1261955
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.511531431559376,
+          40.976781178837314]
+        },
+        "properties": {
+          "name": "Tekirdağ",
+          "population": 944632
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [26.553088, 41.675138]
+        },
+        "properties": {
+          "name": "Edirne",
+          "population": 413135
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [26.414743, 40.146827]
+        },
+        "properties": {
+          "name": "Çanakkale",
+          "population": 540662
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.279513, 40.655833]
+        },
+        "properties": {
+          "name": "Yalova",
+          "population": 263617
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.979424, 40.138988]
+        },
+        "properties": {
+          "name": "Bilecik",
+          "population": 223497
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.403167, 40.748875]
+        },
+        "properties": {
+          "name": "Sakarya",
+          "population": 997537
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.521724, 41.733893]
+        },
+        "properties": {
+          "name": "Kırklareli",
+          "population": 363743
+        }
+      }
+    ]
+  }
+  

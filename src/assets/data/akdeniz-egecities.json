@@ -1,0 +1,184 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.3213, 37.0000]
+        },
+        "properties": {
+          "name": "Adana",
+          "population": 2231675
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.6954, 36.8841]
+        },
+        "properties": {
+          "name": "Antalya",
+          "population": 2385479
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.2908, 37.7206]
+        },
+        "properties": {
+          "name": "Burdur",
+          "population": 285544
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [36.2203, 36.2026]
+        },
+        "properties": {
+          "name": "Hatay",
+          "population": 1657735
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.5329, 37.7721]
+        },
+        "properties": {
+          "name": "Isparta",
+          "population": 444914
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [36.9371, 37.5736]
+        },
+        "properties": {
+          "name": "Kahramanmaraş",
+          "population": 1273699
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.6129, 36.7783]
+        },
+        "properties": {
+          "name": "Mersin",
+          "population": 1586104
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [36.2529, 37.2130]
+        },
+        "properties": {
+          "name": "Osmaniye",
+          "population": 546715
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.1396, 38.4192]
+        },
+        "properties": {
+          "name": "İzmir",
+          "population": 4367251
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.4135, 38.6150]
+        },
+        "properties": {
+          "name": "Manisa",
+          "population": 1425763
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [27.1810, 37.8415]
+        },
+        "properties": {
+          "name": "Aydın",
+          "population": 1041597
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.4054, 38.6823]
+        },
+        "properties": {
+          "name": "Uşak",
+          "population": 382537
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.98555572261685,
+          39.419893038458525]
+        },
+        "properties": {
+          "name": "Kütahya",
+          "population": 571463
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.5410, 38.7507]
+        },
+        "properties": {
+          "name": "Afyon",
+          "population": 725587
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.0697, 37.7733]
+        },
+        "properties": {
+          "name": "Denizli",
+          "population": 1050125
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [28.36294249562505,
+          37.21515161246502]
+        },
+        "properties": {
+          "name": "Muğla",
+          "population": 967646
+        }
+      }
+    ]
+  }
+  

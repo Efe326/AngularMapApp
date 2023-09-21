@@ -1,0 +1,214 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [41.83201222238844,
+          41.18366196496626]
+        },
+        "properties": {
+          "name": "Artvin",
+          "population": 168370
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.52039985224502,
+          41.02517238361324]
+        },
+        "properties": {
+          "name": "Rize",
+          "population": 349944
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.2265, 40.2265]
+        },
+        "properties": {
+          "name": "Bayburt",
+          "population": 80145
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [39.7192, 40.9817]
+        },
+        "properties": {
+          "name": "Trabzon",
+          "population": 808974
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [39.47663536779177,
+          40.4609332639545]
+        },
+        "properties": {
+          "name": "Gümüşhane",
+          "population": 129618
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [38.383478816999144,
+          40.91652393072289]
+        },
+        "properties": {
+          "name": "Giresun",
+          "population": 458396
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.87913392336094,
+          40.985180341666336]
+        },
+        "properties": {
+          "name": "Ordu",
+          "population": 770709
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [36.5633, 40.3150]
+        },
+        "properties": {
+          "name": "Tokat",
+          "population": 602861
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.83226181908242,
+          40.65070624566292]
+        },
+        "properties": {
+          "name": "Amasya",
+          "population": 336327
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [36.3300, 41.2867]
+        },
+        "properties": {
+          "name": "Samsun",
+          "population": 1352447
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.14989732998117,
+          42.024648919752195]
+        },
+        "properties": {
+          "name": "Sinop",
+          "population": 214279
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.9513, 40.5500]
+        },
+        "properties": {
+          "name": "Çorum",
+          "population": 533594
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.77701557997497,
+          41.37701102057588]
+        },
+        "properties": {
+          "name": "Kastamonu",
+          "population": 379405
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.33821881033762,
+          41.63340851695418]
+        },
+        "properties": {
+          "name": "Bartın",
+          "population": 206978
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.62259573790416,
+          41.19559459820155]
+        },
+        "properties": {
+          "name": "Karabük",
+          "population": 251298
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.8262, 41.4564]
+        },
+        "properties": {
+          "name": "Zonguldak",
+          "population": 596053
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.1396, 40.8503]
+        },
+        "properties": {
+          "name": "Düzce",
+          "population": 405758
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.6160, 40.7365]
+        },
+        "properties": {
+          "name": "Bolu",
+          "population": 323402
+        }
+      }
+    ]
+  }
+  

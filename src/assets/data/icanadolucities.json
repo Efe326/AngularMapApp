@@ -1,0 +1,151 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.0266, 38.3721]
+        },
+        "properties": {
+          "name": "Aksaray",
+          "population": 416367
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.8597, 39.9334]
+        },
+        "properties": {
+          "name": "Ankara",
+          "population": 5655259
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.6165, 40.6073]
+        },
+        "properties": {
+          "name": "Çankırı",
+          "population": 185008
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.5403, 39.7669]
+        },
+        "properties": {
+          "name": "Eskişehir",
+          "population": 880970
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.1110, 37.1767]
+        },
+        "properties": {
+          "name": "Karaman",
+          "population": 254872
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.4806, 38.7342]
+        },
+        "properties": {
+          "name": "Kayseri",
+          "population": 1362935
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.50975915386459,
+          39.843480912266074]
+        },
+        "properties": {
+          "name": "Kırıkkale",
+          "population": 275563
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.1670, 39.1520]
+        },
+        "properties": {
+          "name": "Kırşehir",
+          "population": 245360
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.4850, 37.8719]
+        },
+        "properties": {
+          "name": "Konya",
+          "population": 2234874
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.7244, 38.6246]
+        },
+        "properties": {
+          "name": "Nevşehir",
+          "population": 297859
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.7656, 37.9716]
+        },
+        "properties": {
+          "name": "Niğde",
+          "population": 362861
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.0059, 39.7500]
+        },
+        "properties": {
+          "name": "Sivas",
+          "population": 651792
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.80850992236611,
+          39.82210845429523]
+        },
+        "properties": {
+          "name": "Yozgat",
+          "population": 447397
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.9784, 41.0082]
+      },
+      "properties": {
+        "name": "Istanbul",
+        "population": 15472551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.13380048428084, 38.42459392501749]
+      },
+      "properties": {
+        "name": "Izmir",
+        "population": 4320519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.8597, 39.9334]
+      },
+      "properties": {
+        "name": "Ankara",
+        "population": 5445026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.951106181992458,
+        40.76542846431852]
+      },
+      "properties": {
+        "name": "Kocaeli",
+        "population": 1961101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3682, 40.7601]
+      },
+      "properties": {
+        "name": "Sakarya",
+        "population": 976513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.070342092356668,
+        40.19313685106221]
+      },
+      "properties": {
+        "name": "Bursa",
+        "population": 3069910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.3213, 37.0000]
+      },
+      "properties": {
+        "name": "Adana",
+        "population": 2224525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.7024, 36.8879]
+      },
+      "properties": {
+        "name": "Antalya",
+        "population": 2364396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.47224658382865,
+        38.723202917731584]
+      },
+      "properties": {
+        "name": "Kayseri",
+        "population": 1422105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.22596332064438,
+        37.9150430081211]
+      },
+      "properties": {
+        "name": "Diyarbakır",
+        "population": 1624385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.6124, 36.7959]
+      },
+      "properties": {
+        "name": "Mersin",
+        "population": 1757760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.33709712370853,
+        41.28808338828574]
+      },
+      "properties": {
+        "name": "Samsun",
+        "population": 1346205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.501693241738195,
+        37.87569219485083]
+      },
+      "properties": {
+        "name": "Konya",
+        "population": 2281985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.79273888714417,
+        37.15906584894063]
+      },
+      "properties": {
+        "name": "Şanlıurfa",
+        "population": 2168105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.26981997063578,
+        39.90454643206519]
+      },
+      "properties": {
+        "name": "Erzurum",
+        "population": 767848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.083553718099324,
+        37.78397478778206]
+      },
+      "properties": {
+        "name": "Denizli",
+        "population": 993442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.375067374518494,
+        37.063766254335846]
+      },
+      "properties": {
+        "name": "Gaziantep",
+        "population": 2152351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.887340069124946,
+        39.64651086900611]
+      },
+      "properties": {
+        "name": "Balıkesir",
+        "population": 1261955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.5400, 39.7500]
+      },
+      "properties": {
+        "name": "Eskişehir",
+        "population": 888965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.16506679784584,
+        36.203960099055905]
+      },
+      "properties": {
+        "name": "Hatay",
+        "population": 1645705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.43007379275184,
+        38.6153608909396]
+      },
+      "properties": {
+        "name": "Manisa",
+        "population": 1383249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.931094776877956,
+        37.58204211229621]
+      },
+      "properties": {
+        "name": "Kahramanmaraş",
+        "population": 1141947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.39454908710471,
+        38.50099888617967]
+      },
+      "properties": {
+        "name": "Van",
+        "population": 527524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.843572804890783,
+        37.84891960989982]
+      },
+      "properties": {
+        "name": "Aydın",
+        "population": 1086627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.73524528208415,
+        37.313938132141004]
+      },
+      "properties": {
+        "name": "Mardin",
+        "population": 821773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.36487318992789,
+        37.215233685368474]
+      },
+      "properties": {
+        "name": "Muğla",
+        "population": 1025475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.90657594749075,
+        40.98106097624975]
+      },
+      "properties": {
+        "name": "Ordu",
+        "population": 768417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.511566399757186,
+        40.97763248060147]
+      },
+      "properties": {
+        "name": "Tekirdağ",
+        "population": 1008654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.733794738957556,
+        41.006363829272516]
+      },
+      "properties": {
+        "name": "Trabzon",
+        "population": 810655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.31742395631733,
+        38.349426131858934]
+      },
+      "properties": {
+        "name": "Malatya",
+        "population": 814386
+      }
+    }
+  ]
+}
