@@ -27,7 +27,7 @@ export class MapComponent implements AfterViewInit {
 
   private initMap(): void {
     this.map = L.map('map', {
-      center: [ 39.9308, 32.8541 ],
+      center: [39.039875, 34.316644],
       zoom: 7
     });
 
